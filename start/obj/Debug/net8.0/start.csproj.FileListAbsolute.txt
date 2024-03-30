@@ -1,0 +1,15 @@
+/workspaces/09_Lms/start/bin/Debug/net8.0/start
+/workspaces/09_Lms/start/bin/Debug/net8.0/start.deps.json
+/workspaces/09_Lms/start/bin/Debug/net8.0/start.runtimeconfig.json
+/workspaces/09_Lms/start/bin/Debug/net8.0/start.dll
+/workspaces/09_Lms/start/bin/Debug/net8.0/start.pdb
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.AssemblyInfoInputs.cache
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.AssemblyInfo.cs
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.csproj.CoreCompileInputs.cache
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.sourcelink.json
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.dll
+/workspaces/09_Lms/start/obj/Debug/net8.0/refint/start.dll
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.pdb
+/workspaces/09_Lms/start/obj/Debug/net8.0/start.genruntimeconfig.cache
+/workspaces/09_Lms/start/obj/Debug/net8.0/ref/start.dll
